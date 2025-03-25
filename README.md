@@ -26,7 +26,7 @@ To get this project up and running on your local machine, follow these steps:
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/Shikha-code36/Real-Time-Stock-Price-Tracker-using-Kafka.git
+git clone https://github.com/siddharthgupta5/Real-Time-Stock-Price-Tracker-using-Kafka.git
 cd Real-Time-Stock-Price-Tracker-using-Kafka
 ```
 
